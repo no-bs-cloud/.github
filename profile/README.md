@@ -1,4 +1,4 @@
-## Welcome to No BS! 👋
+## Welcome to noBS! 👋
 
 noBS! is a French software consulting company, focusing on execution and delivery.
 
