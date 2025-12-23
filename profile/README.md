@@ -1,6 +1,6 @@
 ## Welcome to No BS! 👋
 
-No BS! is a French software consulting company, focusing on execution and delivery.
+noBS! is a French software consulting company, focusing on execution and delivery.
 
 We’re a small team of seasoned professionals with a simple task: get the job done !
 
